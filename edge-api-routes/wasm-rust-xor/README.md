@@ -1,6 +1,6 @@
 # WASM Exclusive Or Example
 
-Build your API with Rust and WebAssembly using Vercel Edge Functions.
+Build your API with Rust and WebAssembly using Vercel Edge Functions..
 
 This examples takes two 32-bit numbers as inputs (the `a` and `b` query parameters) and uses a WASM function written in Rust to exclusive or them.
 
